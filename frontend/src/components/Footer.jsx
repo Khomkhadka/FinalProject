@@ -4,7 +4,7 @@ import { icons } from '../assets/assets'
 
 const Footer = () => {
   return (
-    <footer className="bg-slate-800 text-white py-5 ">
+    <footer className="bg-slate-800 text-white  py-5 ">
       <div className="max-w-7x mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
         
        
